@@ -1,3 +1,4 @@
 Primeira linha do arquivo
+Eduardo Costa
 Segunda linha do arquivo
 Eduardo Costa
